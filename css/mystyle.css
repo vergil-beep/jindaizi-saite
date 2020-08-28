@@ -1,0 +1,122 @@
+@charset "utf-8";
+html{
+	background-color: black;
+}
+.wrapper{
+	background-color: #435847;
+	margin:0 auto;
+	text-align: center;
+}
+.rogo{
+    position: relative;
+	bottom:380px;
+	right: 550px;
+}
+
+.site-header{
+	background-color: black;
+}
+.site-header a{
+	color: white;
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
+	width: 200px;
+}
+.site-header a:hover{
+	background-color: #fef4f4;
+}
+.main-slid {
+	margin-top: -30px;
+	margin-bottom: 100px;
+}	
+.jumbotron{
+	background-image: url("../image/keidai/jindaizi_huukei-(1).png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+h1{
+	margin-top: -70px;
+	color: white;
+}
+h2{
+	margin-top: 20px;
+	color: white;
+}
+h3{
+	margin-top: 10px;
+	color: white;
+}
+h4{
+	color: white;
+}
+.description p{
+	color: white;
+}
+.text-body{
+	padding: 0.5em 1em;
+    margin: 2em 0;
+    border: double 5px #4ec4d3;
+	background-color: rgba( 204, 255, 255, 0.55 );
+}
+.text-body p{
+	margin: 0; 
+    padding: 0;
+}
+.card-title{
+	    color: #000;
+}
+.card-text{
+		color: #000;
+}
+.carousel-inner{
+	margin-top: 30px;
+	margin-bottom: -50px
+}
+.sns_box{
+	width:150px;
+	margin:0 auto;
+}
+
+.sns{
+	color:#fff;
+	margin:0 20px 0 20px;
+}
+
+.article-main{
+	margin-top: 30px;
+	margin-left:40px;
+}
+.thumbnail{
+	width: 225px;
+	height: 225px;
+	margin-top: 30px;
+}
+
+.map iframe{
+	width: 1260px;
+	height: 600px;
+}
+.higurashi{
+	  text-align: left;
+	border-left: thick solid brown;
+	color: white;
+}
+.table th{
+	width: 600px;
+	color: white;
+}
+.table td{
+	color: white;
+}
+.footer-main{
+	background-color:black;
+	color:#fff;
+	margin:100px 0 0 0;
+}
+p{
+	color: white;
+}
+.form-row{
+	color: white;
+}
